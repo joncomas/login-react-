@@ -5,8 +5,10 @@
   align-items: center;
 
   .header {
-    font-size: 24px;
+    font-size: 34px;
     font-family: "Open Sans", sans-serif;
+    margin-bottom: 10px;
+    font-weight: bold;
   }
 
   .content {
@@ -62,6 +64,6 @@
   }
 
   .footer {
-    margin-top: 3em;
+    margin-top: 2em;
   }
 }
